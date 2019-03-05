@@ -26,4 +26,6 @@ Explorer :
 
 ## Ressources
 
+* [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) (avec miniconda + installations de packages de base : unicodecsv, pandas, seaborn avec conda install)
+
 ## Pour approfondir
