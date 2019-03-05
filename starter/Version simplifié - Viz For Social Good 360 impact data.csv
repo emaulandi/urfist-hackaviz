@@ -1,0 +1,215 @@
+Country,Sub Region 1,Sub Region 2,Country_Code,female_unpaid_domestic_work,male_unpaid_domestic_work,Wife_decision_health,Wife_decision_household_purchase,Women_in_food_decision,death_injury_15_34_female,death_injury_15_34_male,death_injury_35_59_female,death_injury_35_59_male,female_mortality_poisonning,male_mortality_poisonning,female_mortality_air_pollution,male_mortality_air_pollution,cooking_inside,cooking_outdoors,fuel_crops,fuel_charcoal,fuel_dung,fuel_electricity,fuel_gas,fuel_straw,fuel_wood,clean_fuel
+Afghanistan,Middle East,Other Middle Eastern Countries,AFG,,,4.8,2.2,,33.1,74.8,12.1,33.1,1.9,0.5,195,229,55.3,17.4,6.2,0.7,19.2,0.2,32.6,16.9,23.2,32.44
+Albania,Eastern Europe,Eastern Europe,ALB,21.74,3.47,19,5.6,,31.5,50.3,6.7,31.5,0.4,0.5,55,82,92.9,1.9,,0.1,,12.5,55.7,,31.5,77.42
+Algeria,North Africa,Arab States,DZA,22.08,3.75,,,,26.4,68.3,9.4,26.4,0.6,0.9,44,55,,,,,,,,,,92.62
+Andorra,Western Europe,Western Europe,AND,,,,,,,,,,,,,,,,,,,,,,,100
+Angola,Africa (Sub-Saharan),Central Africa,AGO,,,21.6,32.6,,13.5,35.1,4.7,13.5,2,3.4,117,120,60.8,13.6,,15.2,0.4,1.4,48.4,0.1,32.7,48.05
+Anguilla,Caribbean Countries,Caribbean Countries,AIA,,,,,,,,,,,,,,,,,,,,,,,
+Antigua and Barbuda,Caribbean Countries,Caribbean Countries,ATG,,,,,,21.3,58.7,4.3,21.3,0.4,0.3,24,37,,,,,,,,,,98.75
+Argentina,Latin America,South America,ARG,,,,,,,,,,,,,,,,,,,,,,,98.4
+Armenia,Eastern Europe,Eastern Europe,ARM,21.67,4.38,28,15.2,79.9,18.5,56,4.7,18.5,0.4,0.9,38,78,97.9,0.1,0,0,0.3,2.6,94.2,0,2.9,96.9
+Aruba,Western Europe,Western Europe,ABW,,,,,,,,,,,,,,,,,,,,,,,
+Australia,Australia & New Zealand,Australia,AUS,20.83,11.39,,,,41.3,58.8,9.6,41.3,0.2,0.2,7,10,,,,,,,,,,100
+Austria,Western Europe,Western Europe,AUT,16.94,8.68,,,,36.3,55.4,10.5,36.3,0.2,0.3,12,19,,,,,,,,,,100
+Azerbaijan,Eastern Europe,Eastern Europe,AZE,25.42,8.89,20.1,11.6,,18.9,41.9,4.8,18.9,0.3,0.8,51,80,79.2,10.1,,0.5,0.4,20.4,69.5,,8.7,95.54
+Bahamas,Caribbean Countries,Caribbean Countries,BHS,,,,,,19.3,51.8,5.4,19.3,0.1,0.2,15,26,,,,,,,,,,100
+Bahrain,Middle East,Arab States,BHR,,,,,,24,53,5.6,24,0.1,0.3,35,45,,,,,,,,,,100
+Bangladesh,South Asia,South Asia,BGD,,,14.1,8.3,79.7,27.2,44,5.2,27.2,0.2,0.3,137,161,15,16.7,24.3,0.3,6.8,0.4,16.9,1.1,49.6,17.72
+Barbados,Caribbean Countries,Caribbean Countries,BRB,,,,,,22.7,45.8,4.9,22.7,0.2,0.2,25,39,,,,,,,,,,99.44
+Belarus,Eastern Europe,Eastern Europe,BLR,9.51,19.17,,,,33.9,54.6,11.6,33.9,1.1,4.3,40,94,,,,,,,,,,98.18
+Belgium,Western Europe,Western Europe,BEL,10.07,15.9,,,,39.7,61.5,14.3,39.7,0.2,0.3,12,21,,,,,,,,,,100
+Belize,Latin America,Central America,BLZ,,,,,,19.8,59.8,6.9,19.8,0.3,0.7,55,83,,,,,,,,,,85.43
+Benin,Africa (Sub-Saharan),West Africa,BEN,,,17,10.4,77,13.1,32.5,7.9,13.1,2.7,4.3,193,219,34.7,50.4,0,25.7,0.1,0,5.9,0.5,65.3,6.44
+Bermuda,Western Europe,Western Europe,BMU,,,,,,,,,,,,,,,,,,,,,,,
+Bhutan,South Asia,South Asia,BTN,5.07,13.26,,,,22.2,35.4,8.5,22.2,0.5,0.7,130,120,,,,,,,,,,52.5
+Bolivia,Latin America,South America,BOL,5.42,20.83,37.9,14,92.8,30.4,57.5,9.3,30.4,1.4,2.6,56,72,,,,,2.4,0.5,66.5,3.1,27.8,64
+Bosnia and Herzegovina,Eastern Europe,Eastern Europe,BIH,,,,,,26.6,65.2,6,26.6,0.4,0.6,62,101,,,,,,,,,,63.38
+Botswana,Africa (Sub-Saharan),South Africa,BWA,,,,,,10.6,33.2,6.3,10.6,1.1,1.2,88,120,,,,,,,,,,64.08
+Brazil,Latin America,South America,BRA,13.33,3.13,,,,31.3,70,7.1,31.3,0.2,0.2,24,37,,,,,,,,,,95.59
+British Virgin Islands,Western Europe,Western Europe,VGB,,,,,,,,,,,,,,,,,,,,,,,
+Brunei Darussalam,East Asia,East Asia,BRN,,,,,,20.6,43,7.2,20.6,0.2,0.4,11,15,,,,,,,,,,100
+Bulgaria,Eastern Europe,Eastern Europe,BGR,18.47,9.24,,,,22.6,41,4.1,22.6,0.4,0.8,45,82,,,,,,,,,,88.65
+Burkina Faso,Africa (Sub-Saharan),West Africa,BFA,,,7.9,3.6,67.2,15.6,36.2,8.5,15.6,2.6,3.4,194,223,8.6,66.2,0,6.4,0,0,10.3,0.1,80.6,8.93
+Burundi,Africa (Sub-Saharan),East Africa,BDI,,,13.6,7.9,,11.6,34.3,6,11.6,3.7,6.8,173,187,46,7.3,0.2,12.9,0,0.1,0,8.3,77.2,0.85
+Cambodia,East Asia,East Asia,KHM,12.5,1.25,46.4,17.2,,23,42.3,6.9,23,0.5,0.7,140,164,40.4,32.1,0.2,7.9,0.1,0.8,15,0,75.6,17.69
+Cameroon,Africa (Sub-Saharan),Central Africa,CMR,,,15.5,16.4,81.7,9.7,32.5,4.6,9.7,2.2,4,190,228,29.9,23.3,0.4,2.4,0.2,0.1,18.3,0.7,70.5,23.04
+Canada,U.S. & Canada,Canada,CAN,16.18,10.35,,,,42,57.5,9.5,42,0.3,0.3,5,9,,,,,,,,,,100
+Cape Verde,Africa (Sub-Saharan),West Africa,CPV,,,,,,22.3,54.5,9.2,22.3,0.5,0.6,85,120,,,,,,,,,,71.05
+Cayman Islands,Western Europe,Western Europe,CYM,,,,,,,,,,,,,,,,,,,,,,,
+Central African Republic,Africa (Sub-Saharan),Central Africa,CAF,,,,,,14.8,43.8,4.6,14.8,2.3,4.2,204,221,,,,,,,,,,0.97
+Chad,Africa (Sub-Saharan),Central Africa,TCD,,,8.9,21.1,,9.2,28.1,6.1,9.2,2.4,4.8,262,301,17,50.3,0.1,6.5,0.2,0,3.1,0.1,87.7,3.13
+Chile,Latin America,South America,CHL,9.86,22.15,,,,33.2,62.4,7,33.2,0.1,0.3,19,33,,,,,,,,,,92.28
+China,East Asia,East Asia,CHN,6.32,16.25,,,,42.5,56,14.3,42.5,1.6,1.1,100,126,,,,,,,,,,59.26
+Colombia,Latin America,South America,COL,5.28,18.13,73.4,22.8,88.5,32.7,73.5,7.2,32.7,0.2,0.5,30,45,,,0,0.3,,2.3,84.5,,11.4,91.79
+Comoros,Africa (Sub-Saharan),East Africa,COM,,,20.5,27.1,,17.7,35.5,9.1,17.7,1.9,2.8,154,192,27.8,20.1,,1.6,0,0.5,4,0.2,73.4,9.34
+"Congo, Dem. Republic",Africa (Sub-Saharan),Central Africa,COD,,,10.7,16.6,71.8,14.5,43,5.6,14.5,2.5,3.9,166,160,38.2,38.4,0.1,25.1,0,1.9,0,0.5,71.3,4.02
+"Congo, Rep.",Africa (Sub-Saharan),Central Africa,COG,,,9.8,19.8,,14.5,36.9,5.8,14.5,1,1.4,138,122,26.5,52.8,,32.8,0.7,1.2,15,0.3,37.9,24.13
+Cook Islands,Pacific Islands,Polynesia,COK,,,,,,,,,,,,,,,,,,,,,,,
+Costa Rica,Latin America,Central America,CRI,3.54,18.82,,,,26.7,62.5,6.4,26.7,0.1,0.5,18,29,,,,,,,,,,93.45
+Cote D'Ivoire,Africa (Sub-Saharan),Central Africa,CIV,,,10.2,9.2,,13,29.7,6,13,2.8,5.1,259,279,10.5,47.1,,17.6,,0,14.9,0.2,60,18.23
+Croatia,Eastern Europe,Eastern Europe,HRV,,,,,,35,52.7,8,35,0.1,0.2,25,48,,,,,,,,,,92.7
+Cuba,Caribbean Countries,Caribbean Countries,CUB,5.35,16.32,,,,28.1,51.5,6.1,28.1,0.5,0.1,42,58,,,,,,,,,,79.44
+Curacao,Western Europe,Western Europe,CUW,,,,,,,,,,,,,,,,,,,,,,,
+Cyprus,Western Europe,Western Europe,CYP,,,,,,36.9,59.4,6.4,36.9,0.1,0.1,13,28,,,,,,,,,,100
+Czech Republic,Eastern Europe,Eastern Europe,CZE,,,,,,37,55.6,8.4,37,0.2,0.4,21,40,,,,,,,,,,97.13
+Denmark,Western Europe,Nordic Countries,DNK,15.63,11.25,,,,29.9,42.9,6.8,29.9,0.1,0.2,11,16,,,,,,,,,,100
+Djibouti,North Africa,Arab States,DJI,,,,,,15,28.3,6.1,15,1.8,2.9,143,177,,,,,,,,,,11.52
+Dominica,Caribbean Countries,Caribbean Countries,DMA,,,,,,,,,,,,,,,,,,,,,,,90.6
+Dominican Rep,Caribbean Countries,Caribbean Countries,DOM,,,42.2,25.6,,27.1,64.6,6.5,27.1,0.4,0.4,36,50,88.5,1,,4,,0.2,85.5,,5.4,90.41
+Ecuador,Latin America,South America,ECU,17.92,4.51,,,,32.4,58.8,9,32.4,0.4,0.8,21,29,,,,,,,,,,95.58
+Egypt,North Africa,Arab States,EGY,,,14.6,6.4,80.6,22.8,48.1,4,22.8,0.2,0.3,90,130,,,,0,0.1,0.2,96,,0.2,97.62
+El Salvador,Latin America,Central America,SLV,26.43,11.34,,,,36.1,65.8,8.8,36.1,0.1,0.3,35,51,,,,,,,,,,86
+Equatorial Guinea,Africa (Sub-Saharan),Central Africa,GNQ,,,,,,14.7,35,6.9,14.7,1.5,2.2,174,181,,,,,,,,,,34.39
+Eritrea,Africa (Sub-Saharan),East Africa,ERI,,,80.2,22.9,86.3,12.2,35.1,7.8,12.2,2.7,5.6,150,201,,,,1.7,5.2,0.6,4.7,,59.4,16.32
+Estonia,Eastern Europe,Eastern Europe,EST,17.22,10.76,,,,25.6,39.8,8.4,25.6,0.2,0.8,17,36,,,,,,,,,,92.89
+Ethiopia,Africa (Sub-Saharan),East Africa,ETH,8.68,22.08,15.4,10.6,,14.1,33.4,6.9,14.1,2.2,3.6,132,158,39.9,11.7,1.8,7.8,6.9,5,0.5,0.4,76.1,3.51
+Faroe Islands,Western Europe,Nordic Countries,FAE,,,,,,,,,,,,,,,,,,,,,,,
+Fiji,Pacific Islands,Melanesia,FJI,,,,,,21.3,32.5,2.9,21.3,0.2,0.7,70,131,,,,,,,,,,39.56
+Finland,Western Europe,Nordic Countries,FIN,10.07,15.56,,,,45,53.3,10.8,45,0.2,0.3,5,10,,,,,,,,,,100
+France,Western Europe,Western Europe,FRA,9.65,16.39,,,,34.6,51.5,9.5,34.6,0.6,0.3,7,13,,,,,,,,,,100
+Gabon,Africa (Sub-Saharan),Central Africa,GAB,,,26,37.9,,12.6,36.2,4.8,12.6,0.8,1.1,73,79,74.8,9.7,,1.4,,0.3,79,,13.2,79.12
+Gambia,Africa (Sub-Saharan),West Africa,GMB,,,26.7,6.5,,11.8,36,5.9,11.8,1.5,2.3,220,254,3.1,25.3,,25.9,,0,2.3,0.1,64.1,3.3
+Georgia,Eastern Europe,Eastern Europe,GEO,,,,,,21,49.8,5.2,21,0.5,1.2,73,140,,,,,,,,,,77.79
+Germany,Western Europe,Western Europe,DEU,10,15.9,,,,32.8,46.1,7,32.8,0.2,0.1,12,21,,,,,,,,,,100
+Ghana,Africa (Sub-Saharan),West Africa,GHA,4.58,15.49,27.4,22.8,66.4,15.6,31.4,7,15.6,1.3,2,204,203,35.2,36.7,0.4,34.1,0.1,0.8,24.5,0.4,35.6,21.71
+Gibraltar,Western Europe,Western Europe,GIB,,,,,,,,,,,,,,,,,,,,,,,
+Greece,Western Europe,Western Europe,GRC,6.32,19.17,,,,36.6,48.3,6.1,36.6,0.1,0.3,20,36,,,,,,,,,,94.29
+Grenada,Caribbean Countries,Caribbean Countries,GRD,,,,,,17.8,46.2,3.9,17.8,0.3,0.4,39,52,,,,,,,,,,96.58
+Guatemala,Latin America,South America,GTM,27.43,4.72,19.8,18.8,,30.3,68,8.3,30.3,0.8,1.4,68,81,64.8,5.9,0,0.7,,0.7,38.4,,59.7,45.23
+Guinea,Africa (Sub-Saharan),West Africa,GIN,,,7.7,16,68.7,11.9,32.8,6.1,11.9,2.1,3.8,237,249,4.6,43.7,0,28.5,0,0.2,0.1,,68.6,1.24
+Guinea-Bissau,Africa (Sub-Saharan),West Africa,GNB,,,,,,11.1,24,4.9,11.1,1.5,2.9,206,225,,,,,,,,,,1.52
+Guyana,Caribbean Countries,Caribbean Countries,GUY,,,40.7,31.6,,28.1,59.9,6.6,28.1,0.7,0.7,98,117,86.4,7,,0.2,,1.5,55.5,0,7.7,74.48
+Haiti,Caribbean Countries,Caribbean Countries,HTI,,,34.5,40.7,43.1,20.9,55.3,5.4,20.9,2.2,3,172,198,18,34,,44.1,,0.4,4.3,0,48.5,4.34
+Honduras,Latin America,Central America,HND,13.54,4.38,28.3,26.8,,51.6,72.7,17.7,51.6,0.2,0.6,48,76,77.4,9.1,,,,18.9,25.1,,50.4,53.1
+Hong Kong SAR,East Asia,East Asia,HKG,10.83,3.33,,,,,,,,,,,,,,,,,,,,,
+Hungary,Eastern Europe,Eastern Europe,HUN,19.79,10.63,,,,30.5,49.9,7.1,30.5,0.1,0.4,28,53,,,,,,,,,,100
+Iceland,Western Europe,Nordic Countries,ISL,,,,,,37,66.4,7.4,37,0.1,0.3,7,11,,,,,,,,,,100
+India,South Asia,South Asia,IND,,,27.1,8.5,,37.3,51.4,10.7,37.3,1.9,2.8,166,202,81.5,8.7,3,0.6,7.2,0.6,43.1,2.5,40.5,41.04
+Indonesia,East Asia,East Asia,IDN,,,34,19.4,94.4,15.2,32.7,5.2,15.2,0.2,0.6,94,134,86.7,3.4,,0.4,,0.3,52,0,37.6,58.37
+Iran,Middle East,Other Middle Eastern Countries,IRN,5.21,21.04,,,,44.2,68.4,11.7,44.2,0.8,1.6,46,56,,,,,,,,,,98.49
+Iraq,Middle East,Arab States,IRQ,4.17,24.1,,,,69.8,90.7,29.3,69.8,0.4,0.6,64,88,,,,,,,,,,97.63
+Ireland,Western Europe,Western Europe,IRL,8.96,20.56,,,,33.8,52.7,7.8,33.8,0.1,0.3,9,15,,,,,,,,,,100
+Israel,Middle East,Other Middle Eastern Countries,ISR,,,,,,27.8,48.9,6,27.8,0.1,0.2,11,21,,,,,,,,,,100
+Italy,Western Europe,Western Europe,ITA,6.74,19.86,,,,30.4,48.4,5.8,30.4,0.3,0.2,11,20,,,,,,,,,,100
+Jamaica,Caribbean Countries,Caribbean Countries,JAM,,,,,,33.9,63.7,8,33.9,0.2,0.2,21,30,,,,,,,,,,90.5
+Japan,East Asia,East Asia,JPN,2.92,14.93,,,,47.5,65.6,12.8,47.5,0.3,0.6,8,17,,,,,,,,,,100
+Jordan,Middle East,Arab States,JOR,,,40,19,88.3,35.7,70.3,10.8,35.7,0.8,0.5,39,65,,,,0,,0.1,99.8,,,99.06
+Kazakhstan,Central Asia,Central Asia,KAZ,7.71,17.08,,,,41.6,62.2,11.1,41.6,1.3,3.3,47,86,,,,,,,,,,95.34
+Kenya,Africa (Sub-Saharan),East Africa,KEN,,,38.6,19.6,93.6,7.1,25,4.2,7.1,1.1,2.5,75,81,50,6.9,0,17.2,0,0.4,11.5,1.1,56.1,13.42
+Kiribati,Pacific Islands,Micronesia,KIR,,,,,,17.6,37.8,3.2,17.6,2,3.1,107,187,,,,,,,,,,5.52
+"Korea, Republic of",East Asia,East Asia,KOR,14.44,3.26,,,,54.9,65.6,18.3,54.9,0.3,0.7,14,29,,,,,,,,,,96.68
+Kosovo,Eastern Europe,Eastern Europe,UVK,,,,,,,,,,,,,,,,,,,,,,,
+Kuwait,Middle East,Arab States,KWT,,,,,,35.4,64.3,10.9,35.4,0.1,0.2,89,114,,,,,,,,,,100
+Kyrgyz Republic,Central Asia,Central Asia,KGZ,16.81,9.51,31.2,8.5,,28.4,49,8.2,28.4,0.4,0.8,87,142,58.4,2.9,4,0.6,6.2,53,24.7,3,8.2,81.25
+Lao P.D.R.,East Asia,East Asia,LAO,10.42,2.5,,,,22.5,44.1,6.1,22.5,0.8,1,182,196,,,,,,,,,,5.62
+Latvia,Eastern Europe,Eastern Europe,LVA,15.63,6.88,,,,30.2,51.5,10.1,30.2,0.3,1.5,28,60,,,,,,,,,,95.28
+Lebanon,Middle East,Arab States,LBN,,,,,,30.8,68.3,6.5,30.8,0.3,0.3,41,61,,,,,,,,,,
+Lesotho,Africa (Sub-Saharan),South Africa,LSO,15.56,6.18,40.3,13.7,88.1,10.3,30.2,5.5,10.3,3.3,3,166,196,52.6,39.6,0.4,0.1,7.7,10.9,25.3,1.7,47,35.61
+Liberia,Africa (Sub-Saharan),West Africa,LBR,,,16.2,24.3,,10.5,33.7,6.6,10.5,1.1,2.5,172,168,17.3,36.9,,49.6,,0.1,0.1,,48.1,0.71
+Libya,North Africa,Arab States,LBY,,,,,,52.7,84.2,17.7,52.7,0.4,0.8,54,92,,,,,,,,,,
+Liechtenstein,Western Europe,Western Europe,LIE,,,,,,,,,,,,,,,,,,,,,,,
+Lithuania,Eastern Europe,Eastern Europe,LTU,8.96,18.68,,,,30.4,54.4,11.3,30.4,0.3,1.2,23,51,,,,,,,,,,100
+Luxembourg,Western Europe,Western Europe,LUX,7.08,14.44,,,,41.5,66.3,10.1,41.5,0.1,0.1,8,15,,,,,,,,,,100
+Macao SAR,East Asia,East Asia,MAC,,,,,,,,,,,,,,,,,,,,,,,
+Macedonia,Eastern Europe,Eastern Europe,MKD,6.04,19.51,,,,24.6,43.9,4.2,24.6,0.3,0.5,64,103,,,,,,,,,,65.63
+Madagascar,Africa (Sub-Saharan),East Africa,MDG,3.82,15.63,40,18.8,93.7,13,30.7,7.1,13,2.6,4,153,167,58.4,17.2,0.1,26.8,0,0.4,0.4,0.2,71.1,0.91
+Malawi,Africa (Sub-Saharan),East Africa,MWI,1.25,8.68,18.6,8.6,73.8,5.1,21.9,3.7,5.1,1.5,2.5,104,130,8.3,31,0.1,18.3,0,1.7,0,0.2,79.5,2.5
+Malaysia,East Asia,East Asia,MYS,5.97,19.1,,,,29.8,54.1,8,29.8,0.3,0.6,39,56,,,,,,,,,,96.3
+Maldives,South Asia,South Asia,MDV,,,20.4,10.9,,31,57,6.5,31,0,0,21,30,50.9,1.7,,,,0.9,91.2,,5.7,93.83
+Mali,Africa (Sub-Saharan),West Africa,MLI,2.5,20.42,7.2,7.4,54.8,11,33.7,5.1,11,2.4,4.2,216,201,9.5,21,0.1,19.8,0.2,0.1,0.4,0.2,78.7,0.96
+Malta,Western Europe,Western Europe,MLT,7.01,18.75,,,,34.7,39,5.3,34.7,0.1,0.2,15,26,,,,,,,,,,100
+Marshall Is.,Pacific Islands,Micronesia,MHL,,,,,,,,,,,,,,,,,,,,,,,65.35
+Mauritania,North Africa,Arab States,MRT,,,,,,12.1,34.7,7,12.1,1.2,2.5,157,184,,,,,,,,,,46.56
+Mauritius,Africa (Sub-Saharan),East Africa,MUS,18.96,4.79,,,,14.8,42.1,4,14.8,0.1,0.1,28,50,,,,,,,,,,93.34
+Mexico,Latin America,Mexico,MEX,27.99,10.07,,,,30.5,63.5,6,30.5,0.3,0.6,30,44,,,,,,,,,,85.35
+Micronesia,Pacific Islands,Micronesia,FSM,,,,,,,,,,,,,,,,,,,,,,,11.97
+Moldova,Eastern Europe,Eastern Europe,MDA,19.03,10.28,51.6,19,,26.5,47.4,8.1,26.5,0.7,1.7,61,102,,,3,0.1,0.1,2.9,82.1,2.8,8.7,92.19
+Monaco,Western Europe,Western Europe,MCO,,,,,,,,,,,,,,,,,,,,,,,100
+Mongolia,East Asia,East Asia,MNG,19.86,9.1,,,,29.7,56.9,7.3,29.7,1,2.2,119,203,,,,,,,,,,42.8
+Montenegro,Eastern Europe,Eastern Europe,MNE,,,,,,25.7,55.6,5.6,25.7,0.4,0.6,62,98,,,,,,,,,,69.35
+Montserrat,Caribbean Countries,Caribbean Countries,MSR,,,,,,,,,,,,,,,,,,,,,,,
+Morocco,North Africa,Arab States,MAR,20.83,2.99,12.1,8.7,73.6,26.6,61.8,7.7,26.6,0.5,0.7,42,58,,,,0.4,,0.1,91.1,,7.8,96.75
+Mozambique,Africa (Sub-Saharan),East Africa,MOZ,,,21.6,13.3,80.6,6.5,20.6,3.1,6.5,2.4,3.5,106,114,20.8,50.5,0,18.5,0,1.1,2.1,0.2,76.8,3.69
+Myanmar,East Asia,East Asia,MMR,,,40.1,18.6,,29.9,32.9,10.5,29.9,1.9,0.9,133,188,61.5,12.5,1.4,13.5,0.1,22.3,0.6,0.2,61.2,18.4
+Namibia,Africa (Sub-Saharan),South Africa,NAM,,,46.3,26.1,,9.5,42.1,4.9,9.5,1.5,1.6,129,168,65.6,25.8,0,0.3,0.5,33.7,10.1,,52.3,42.2
+Nauru,Pacific Islands,Micronesia,NRU,,,,,,,,,,,,,,,,,,,,,,,91.33
+Nepal,South Asia,South Asia,NPL,,,25.7,33.5,72.5,29.5,49,8.8,29.5,0.3,0.6,173,217,67.8,5.4,0.3,0.1,4.3,1,33,1.6,59.4,27.62
+Netherlands,Western Europe,Western Europe,NLD,14.72,,,,,30.7,49.3,7.6,30.7,0.1,0.1,11,17,,,,,,,,,,100
+Netherlands Antilles,Western Europe,Western Europe,ANT,,,,,,,,,,,,,,,,,,,,,,,
+New Zealand,Australia & New Zealand,New Zealand,NZL,10.56,18.06,,,,42.8,64,8.2,42.8,0.1,0.3,6,9,,,,,,,,,,100
+Nicaragua,Latin America,Central America,NIC,,,46.7,13,88.5,26.8,60,5.6,26.8,0.4,0.8,50,63,,,,0.4,,0.9,37.9,,60,52.3
+Niger,Africa (Sub-Saharan),West Africa,NER,,,3.5,3.2,45.4,10.3,35.7,6.6,10.3,3,5.3,237,267,5.5,77.7,1.8,1.5,1.9,0.1,0.8,5.5,86.2,1.91
+Nigeria,Africa (Sub-Saharan),West Africa,NGA,,,6.2,5.6,45.2,8.9,24.7,5.7,8.9,2.2,3.7,313,301,46.3,29.4,0.6,3.3,0,0.6,4.7,1.1,65,4.91
+Niue,Pacific Islands,Polynesia,NIU,,,,,,,,,,,,,,,,,,,,,,,
+Norway,Western Europe,Nordic Countries,NOR,9.86,13.75,,,,42.3,44.4,9.7,42.3,0.1,0.2,7,10,,,,,,,,,,100
+Oman,Middle East,Arab States,OMN,7.99,19.03,,,,33.5,62.7,10.4,33.5,0.1,0.6,43,62,,,,,,,,,,95.22
+Pakistan,South Asia,South Asia,PAK,1.81,19.86,11.1,7.8,,20.6,41.3,5.7,20.6,3.9,0.8,149,197,93.7,0.3,3.7,2.1,8,0,37.6,4.5,47.4,43.32
+Palau,Pacific Islands,Micronesia,PLW,,,,,,,,,,,,,,,,,,,,,,,86.9
+Panama,Latin America,Central America,PAN,6.25,13.82,,,,20,58.7,5.2,20,0.2,0.5,21,31,,,,,,,,,,89.01
+Papua New Guinea,Pacific Islands,Melanesia,PNG,,,,,,19.1,42.1,5.2,19.1,0.7,2.6,125,184,,,,,,,,,,13.43
+Paraguay,Latin America,South America,PRY,,,,,,32.3,64.9,7,32.3,0.3,0.4,49,66,,,,,,,,,,66.22
+Peru,Latin America,South America,PER,22.57,8.4,61.9,25.8,90.3,28.7,54.4,9.2,28.7,0.6,1.2,55,74,78.4,3.5,0,1.1,3.2,0.8,62.1,0.5,27.7,75.06
+Philippines,East Asia,East Asia,PHL,,,51.7,19.6,87.3,13.5,41.2,3.7,13.5,0.2,0.3,151,225,76.9,13.8,0.2,9.1,0,3.4,47.1,0.1,38.2,43.22
+Poland,Eastern Europe,Eastern Europe,POL,18.33,9.93,,,,32.1,54.9,6.1,32.1,0.2,0.3,26,53,,,,,,,,,,100
+Portugal,Western Europe,Western Europe,PRT,,,,,,22.5,43,7.6,22.5,0.2,0.3,7,13,,,,,,,,,,100
+Qatar,Middle East,Arab States,QAT,13.82,7.64,,,,37.5,75.7,8.5,37.5,0.1,0.5,37,52,,,,,,,,,,98.49
+Romania,Eastern Europe,Eastern Europe,ROM,,,,,,,,,,,,,,,,,,,,,,,
+Russia,Eastern Europe,Eastern Europe,RUS,,,,,,31.9,48.7,10.2,31.9,0.8,2.7,33,73,,,,,,,,,,98.25
+Rwanda,Africa (Sub-Saharan),East Africa,RWA,,,23.2,12.4,90.2,16,37.9,7.6,16,1.5,3.2,118,125,24.3,20.9,0.1,17,0,0.1,1.6,17.3,63.2,0.57
+Samoa,Pacific Islands,Polynesia,WSM,,,,,,29.3,55.3,5.3,29.3,0.3,0.7,58,116,,,,,,,,,,32.29
+San Marino,Western Europe,Western Europe,SMR,,,,,,,,,,,,,,,,,,,,,,,100
+Sao Tome and Principe,Africa (Sub-Saharan),Central Africa,STP,,,32.2,24.4,,14.9,44.7,5.6,14.9,0.1,1.6,158,168,22.7,8.1,,8.1,,0,0.3,,63.6,16.81
+Saudi Arabia,Middle East,Arab States,SAU,,,,,,43.4,76.6,17,43.4,0.5,0.8,72,93,,,,,,,,,,95.96
+Senegal,Africa (Sub-Saharan),West Africa,SEN,,,6.6,4,58,15.2,39.8,7.3,15.2,1.6,3,152,172,65.9,6.7,0.4,18.9,1.5,1.3,27,44.6,47.7,31.65
+Serbia,Eastern Europe,Eastern Europe,SER,,,,,,,,,,,,,,,,,,,,,,,
+Serbia,Eastern Europe,Eastern Europe,SRB,9.44,20.21,,,,25.7,47.4,5.3,25.7,0.2,0.4,47,82,,,,,,,,,,76.41
+Seychelles,Africa (Sub-Saharan),East Africa,SYC,,,,,,19.1,45.4,6.6,19.1,0.5,0.7,31,70,,,,,,,,,,90.36
+Sierra leone,Africa (Sub-Saharan),West Africa,SLE,,,8.1,7.5,,9.6,27.9,5.8,9.6,3.1,5.2,333,314,3.8,55,0,28.4,0,0.1,0.4,0.1,70.1,0.99
+Singapore,East Asia,East Asia,SGP,,,,,,33,50.9,6.3,33,0.1,0.1,19,33,,,,,,,,,,100
+Sint Maarten,Western Europe,Western Europe,SXM,,,,,,,,,,,,,,,,,,,,,,,
+Slovak Republic,Eastern Europe,Eastern Europe,SVK,,,,,,27.9,52.5,8,27.9,0.3,0.5,24,47,,,,,,,,,,96.58
+Slovenia,Eastern Europe,Eastern Europe,SVN,11.11,20.56,,,,32.6,59.8,7.9,32.6,0.2,0.4,17,29,,,,,,,,,,96.17
+Solomon Is.,Pacific Islands,Melanesia,SLB,,,,,,28.1,51.6,5,28.1,0.4,1.4,116,158,,,,,,,,,,8.45
+Somalia,North Africa,Arab States,SOM,,,,,,16.3,40.7,8.5,16.3,3.2,5.9,204,222,,,,,,,,,,2.34
+South Africa,Africa (Sub-Saharan),South Africa,ZAF,6.74,15.9,,,,9,37,5.1,9,1.1,1.3,66,118,,,,,,,,,,84.75
+South Sudan,Africa (Sub-Saharan),East Africa,SSD,,,,,,10.6,30,4.9,10.6,2.7,5.3,161,169,,,,,,,,,,0.64
+Spain,Western Europe,Western Europe,ESP,18.96,8.61,,,,28.6,44.1,6.9,28.6,0.2,0.2,6,14,,,,,,,,,,100
+Sri Lanka,South Asia,South Asia,LKA,,,,,,36.2,56.7,8.9,36.2,0.3,0.6,63,100,,,,,,,,,,26.33
+St. Kitts and Nevis,Caribbean Countries,Caribbean Countries,KNA,,,,,,,,,,,,,,,,,,,,,,,100
+St. Lucia,Caribbean Countries,Caribbean Countries,LCA,,,,,,23.7,58.4,6.7,23.7,0.2,0.2,25,36,,,,,,,,,,97.23
+St. Vincent and the Grenadines,Caribbean Countries,Caribbean Countries,VCT,,,,,,14.5,44.4,3.6,14.5,0.2,0.2,40,56,,,,,,,,,,95.98
+Sudan,North Africa,Arab States,SDN,,,,,,20.3,56.4,6.5,20.3,2.9,5,175,196,,,,,,,,,,41.29
+Suriname,Caribbean Countries,Caribbean Countries,SUR,,,,,,27.6,58.2,7.8,27.6,0.3,0.4,42,74,,,,,,,,,,89.61
+Swaziland,Africa (Sub-Saharan),South Africa,SWZ,,,36.2,18.9,,9.7,36,4.8,9.7,3.4,3.2,124,157,47.4,9.5,,0.4,,18.7,16,,56.7,49.7
+Sweden,Western Europe,Nordic Countries,SWE,15.97,12.64,,,,40.6,52.1,10.6,40.6,0.3,0.5,6,9,,,,,,,,,,100
+Switzerland,Western Europe,Western Europe,CHE,17.64,10.76,,,,38.9,52.9,11.6,38.9,0.1,0.1,8,13,,,,,,,,,,100
+Syria Arab Republic,Middle East,Arab States,SYR,,,,,,84.9,94.5,47.6,84.9,0.4,0.4,62,90,,,,,,,,,,99.02
+"Taiwan, Province of China",East Asia,East Asia,TWN,,,,,,,,,,,,,,,,,,,,,,,
+Tajikistan,Central Asia,Central Asia,TJK,,,14.5,7.9,,21.3,46.3,6.8,21.3,0.9,1.4,115,145,25.7,3.6,2,0,5.3,52.3,18.2,0.9,21,80.41
+Tanzania,Africa (Sub-Saharan),East Africa,TZA,16.53,,15.7,7.6,78.6,12.6,31.6,7.5,12.6,2.2,3.2,135,143,34.2,20.1,0,27.9,0,0.1,4.1,0,64.8,2.16
+Thailand,East Asia,East Asia,THA,3.4,12.78,,,,31,61,9.1,31,0.3,0.5,47,79,,,,,,,,,,74.43
+Timor-Leste,East Asia,East Asia,TLS,,,22.8,20.9,,22.6,45.6,5,22.6,0.4,0.5,130,150,11.8,76,0,0,,8.2,0.9,0,86.4,6.92
+Togo,Africa (Sub-Saharan),West Africa,TGO,,,11.6,14.3,,14.6,37.2,7.1,14.6,1.8,3,234,267,9.5,65.5,0,37.6,0,0.3,8.8,0.3,51.8,6.71
+Tokelau,Pacific Islands,Polynesia,TKL,,,,,,,,,,,,,,,,,,,,,,,
+Tonga,Pacific Islands,Polynesia,TON,,,,,,24.2,43.5,4.6,24.2,1.2,1.5,48,107,,,,,,,,,,59.17
+Trinidad and Tobago,Caribbean Countries,Caribbean Countries,TTO,,,,,,32.1,66.4,6.6,32.1,0.2,0.3,30,49,,,,,,,,,,99.26
+Tunisia,North Africa,Arab States,TUN,2.71,21.94,,,,28.6,67.9,9.1,28.6,0.4,0.5,42,72,,,,,,,,,,99.1
+Turkey,Middle East,Other Middle Eastern Countries,TUR,3.68,19.17,,,,25.3,51.7,4.9,25.3,0.2,0.4,29,69,,,,,,,,,,
+Turkmenistan,Central Asia,Central Asia,TKM,,,40.3,7.2,86.1,21.7,42.1,4.3,21.7,0.6,0.9,63,100,,,,0,,0.5,99.1,,0.3,99.32
+Tuvalu,Pacific Islands,Polynesia,TUV,,,,,,,,,,,,,,,,,,,,,,,50.42
+U.S.,U.S. & Canada,USA,USA,15.9,9.79,,,,35.2,54.4,8.8,35.2,0.8,1,10,17,,,,,,,,,,100
+Uganda,Africa (Sub-Saharan),East Africa,UGA,,,23.3,16.2,89.1,15.2,33.7,8.1,15.2,2.4,4,155,156,11,24.2,0,25.4,0,0.4,0.6,0.3,69.4,0.77
+Ukraine,Eastern Europe,Eastern Europe,UKR,,,64.2,16.1,,20.9,44.2,7.1,20.9,1.1,4.3,51,100,83.9,0.1,,0.1,,8,87.7,,2.5,95.73
+United Arab Emirates,Middle East,Arab States,ARE,,,,,,25.9,55.4,6.7,25.9,0.3,0.2,45,59,,,,,,,,,,98.51
+United Kingdom,Western Europe,Western Europe,GBR,14.72,8.06,,,,25.2,43.5,6.4,25.2,0.2,0.3,11,17,,,,,,,,,,100
+Uruguay,Latin America,South America,URY,20.14,8.54,,,,41.7,73,9.3,41.7,0.3,0.6,12,25,,,,,,,,,,97.97
+Uzbekistan,Central Asia,Central Asia,UZB,,,,,,26.2,42.4,4.6,26.2,0.5,1.5,66,100,,,,,,,,,,92.1
+Vanuatu,Pacific Islands,Melanesia,VUT,,,,,,24.3,47.1,4.5,24.3,0.4,1.3,111,162,,,,,,,,,,12.57
+Vatican,Western Europe,Western Europe,N/A,,,,,,,,,,,,,,,,,,,,,,,
+Venezuela,Latin America,South America,VEN,,,,,,36.2,80.8,8.7,36.2,0.2,0.4,26,45,,,,,,,,,,96.16
+Vietnam,East Asia,East Asia,VNM,,,,,,33.4,59.9,9.1,33.4,0.1,1.7,43,95,,,,,,0.9,30.5,11.1,46.4,66.92
+Virgin Islands,Caribbean Countries,Caribbean Countries,VIR,,,,,,,,,,,,,,,,,,,,,,,
+West Bank & Gaza,Middle East,Other Middle Eastern Countries,PSE,19.17,3.06,,,,,,,,,,,,,,,,,,,,,
+Yemen,Middle East,Arab States,YMN,,,,,,,,,,,,,,,,,,,,,,,
+Zambia,Africa (Sub-Saharan),East Africa,ZMB,,,31.7,11.7,,11.4,27.5,5.9,11.4,2.1,3.8,121,134,26.4,38,0,37.1,0.1,12.3,0,0.2,50.2,16.43
+Zimbabwe,Africa (Sub-Saharan),East Africa,ZWE,,,34.2,27.5,91.2,10.2,39,5.4,10.2,2.3,2.2,133,133,45.5,15.7,0,0.2,0.1,25.7,3.3,0.1,67.7,29.05
