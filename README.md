@@ -3,7 +3,7 @@ Ressources de la journée Hackaviz à l'URFIST
 
 ## Suports 
 ### Théorie Visualisation de données
-Ajouter lien
+* [Slides](https://github.com/emaulandi/urfist-hackaviz/blob/master/supports/LectureUrfist.pdf)
 
 ### Hackaviz, présentation des données 
 * [Slides](https://docs.google.com/presentation/d/18SDgJzFfqqrWp_Xa2-BRSHsj5b4-oLk11z9yzQdtYdY/edit?usp=sharing)
