@@ -1,0 +1,25 @@
+---
+title: "R Notebook Starter"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+
+```{r}
+dataset <- read.csv('Version simplifié - Viz For Social Good 360 impact data.csv')
+head(dataset)
+```
+
+```{r}
+summary(dataset)
+```
+
+```{r}
+library(ggplot2)
+
+ggplot(dataset, aes(x=cooking_inside, y=clean_fuel, color=female_mortality_air_pollution)) + 
+    geom_point()
+```
