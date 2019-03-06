@@ -2,7 +2,7 @@
 Ressources de la journée Hackaviz à l'URFIST
 
 ## Suports 
-### Thérie Visualisation de données
+### Théorie Visualisation de données
 Ajouter lien
 
 ### Hackaviz, présentation des données 
@@ -18,14 +18,15 @@ Version simplifié (voir gsheet ou excel pour la description des attributs) :
 * [Csv](https://drive.google.com/file/d/13hKPUMUXh2gVUuT1gF-D7VYiYhC33CYj/view?usp=sharing)
 
 Starter :
-* Jupyter Notebook : à ajouter
-* R : à ajouter
+* Jupyter Notebook : voir le dossier starter
+* R : voir le dossier starter
 
 Explorer :
 [Avec un dashboard keshif simple](https://explore.keshif.me/5727357847470080/6323382643589120/360Impactdataexplorer)
 
 ## Ressources
-
-* [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) (avec miniconda + installations de packages de base : unicodecsv, pandas, seaborn avec conda install)
+* [The R graph gallery](https://www.r-graph-gallery.com)
+* [The python graph gallery](https://python-graph-gallery.com/)
+* [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) (avec miniconda + installations de packages de base : pandas, seaborn et/ou plotly, ...)
 
 ## Pour approfondir
