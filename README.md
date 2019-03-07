@@ -25,8 +25,14 @@ Explorer :
 [Avec un dashboard keshif simple](https://explore.keshif.me/5727357847470080/6323382643589120/360Impactdataexplorer)
 
 ## Ressources
+* [Visualisation Vocabolary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+* [The datavisualisation Catalogue](https://datavizcatalogue.com/)
+
+Tech
 * [The R graph gallery](https://www.r-graph-gallery.com)
 * [The python graph gallery](https://python-graph-gallery.com/)
 * [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) (avec miniconda + installations de packages de base : pandas, seaborn et/ou plotly, ...)
 
-## Pour approfondir
+## Approfondir
+* [Newsletter du blog de datawrapper](https://blog.datawrapper.de/category/weekly-chart/)
+* [Nathan Yau : selon la question, un graphique différent](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/)
