@@ -36,3 +36,4 @@ Tech
 ## Approfondir
 * [Newsletter du blog de datawrapper](https://blog.datawrapper.de/category/weekly-chart/)
 * [Nathan Yau : selon la question, un graphique différent](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/)
+* [Faire des graphiques originaux avec Excel](https://policyviz.com/?s=excel)
