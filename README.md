@@ -14,8 +14,8 @@ Ressources de la journée Hackaviz à l'URFIST
 
 Version simplifié (voir gsheet ou excel pour la description des attributs) :
 * [Google sheet](https://docs.google.com/spreadsheets/d/11AhnoDsLtImaR46rPXHDj9RrRpcBYJZLhr-r_UQnR2o/edit?usp=sharing)
-* [Excel](https://drive.google.com/file/d/19Y4b1Sa5W28i1Tiy8D7kr1QagKNfhipe/view?usp=sharing)
-* [Csv](https://drive.google.com/file/d/13hKPUMUXh2gVUuT1gF-D7VYiYhC33CYj/view?usp=sharing)
+* [Excel](https://drive.google.com/file/d/1GyC7JFPJacnjl20sV-0REqGlugbXHnno/view?usp=sharing)
+* [Csv](https://drive.google.com/file/d/1izjHeFn1FcFr8Jgie4mqztVj_58h6LN1/view?usp=sharing)
 
 Starter :
 * Jupyter Notebook : voir le dossier starter
